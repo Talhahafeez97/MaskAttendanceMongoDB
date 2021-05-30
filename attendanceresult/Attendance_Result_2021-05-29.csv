@@ -1,0 +1,6 @@
+,Name,DateIn,TimeIn,Mask,DateOut,TimeOut,Engage-Min,Engage-Hrs
+0, talha hafeeeez,2021-05-29,10:49:22,True,2021-05-29,10:49:22,0,0.0
+1,abdul hadi,2021-05-29,09:29:44,True,2021-05-29,09:29:44,0,0.0
+2,abdul hadi,2021-05-29,10:49:22,True,2021-05-29,09:29:44,-80,-1.33
+3,talha hafeez 51819,2021-05-29,09:29:44,False,2021-05-29,09:29:44,0,0.0
+4,talha hafeez 51819,2021-05-29,09:29:44,False,2021-05-29,10:49:22,79,1.32
